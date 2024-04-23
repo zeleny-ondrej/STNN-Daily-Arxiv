@@ -38,7 +38,7 @@ def get_daily_papers(topic,query="STNN", max_results=2):
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
+        sort_by = arxiv.SortCriterion.Relevance
     )
 
     cnt = 0
@@ -57,8 +57,9 @@ def get_daily_papers(topic,query="STNN", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-        if update_time < datetime.date(2022,1,1):
+        if update_time < datetime.date(2023,1,1):
             continue
+
       
         print("Time = ", update_time ,
               " title = ", paper_title,
@@ -226,15 +227,14 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Spatio-Temporal Neural Network"] = "\"Spatial Temporal Neural Network\" OR \"Spatio-Temporal Forecasting\""
-
+    keywords["Spatio-Temporal Neural Network"] = ("Spatial Temporal Neural Network")
 
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 200)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 100)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
