@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -89,3 +89,31 @@
 |**2023-05-01**|**Attention-based Spatial-Temporal Graph Neural ODE for Traffic Prediction**|Weiheng Zhong et.al.|[2305.00985v1](http://arxiv.org/abs/2305.00985v1)|null|
 |**2023-04-27**|**Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification**|Xuehu Liu et.al.|[2304.14122v1](http://arxiv.org/abs/2304.14122v1)|**[link](https://github.com/flysnowtiger/dcct)**|
 |**2023-04-11**|**Multi-Graph Convolution Network for Pose Forecasting**|Hongwei Ren et.al.|[2304.04956v1](http://arxiv.org/abs/2304.04956v1)|null|
+|**2023-03-23**|**It is all Connected: A New Graph Formulation for Spatio-Temporal Forecasting**|Lars Ødegaard Bentsen et.al.|[2303.13177v1](http://arxiv.org/abs/2303.13177v1)|null|
+|**2023-06-06**|**Graph Neural Rough Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2303.10909v2](http://arxiv.org/abs/2303.10909v2)|**[link](https://github.com/jeongwhanchoi/stg-nrde)**|
+|**2023-07-01**|**Pivoting on the spatial dimension for mobile telecom energy-saving**|Liyan Xu et.al.|[2303.06529v3](http://arxiv.org/abs/2303.06529v3)|null|
+|**2023-03-06**|**Spatiotemporal Capsule Neural Network for Vehicle Trajectory Prediction**|Yan Qin et.al.|[2303.02880v1](http://arxiv.org/abs/2303.02880v1)|null|
+|**2023-02-28**|**Adaptive Hybrid Spatial-Temporal Graph Neural Network for Cellular Traffic Prediction**|Xing Wang et.al.|[2303.00498v1](http://arxiv.org/abs/2303.00498v1)|**[link](https://github.com/starxingwang/ahstgnn)**|
+|**2023-02-25**|**Attention-based Spatial-Temporal Graph Convolutional Recurrent Networks for Traffic Forecasting**|Haiyang Liu et.al.|[2302.12973v1](http://arxiv.org/abs/2302.12973v1)|null|
+|**2023-02-25**|**Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition**|Jinzhao Luo et.al.|[2302.12967v1](http://arxiv.org/abs/2302.12967v1)|**[link](https://github.com/aikuniverse/tcte-net)**|
+|**2023-09-06**|**Dynamic Graph Convolutional Network with Attention Fusion for Traffic Flow Prediction**|Xunlian Luo et.al.|[2302.12598v2](http://arxiv.org/abs/2302.12598v2)|**[link](https://github.com/trainingl/AFDGCN)**|
+|**2023-12-07**|**Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks**|Wei Chen et.al.|[2302.10903v2](http://arxiv.org/abs/2302.10903v2)|**[link](https://github.com/onedean/attntul)**|
+|**2023-02-21**|**A Dynamic Temporal Self-attention Graph Convolutional Network for Traffic Prediction**|Ruiyuan Jiang et.al.|[2302.10428v1](http://arxiv.org/abs/2302.10428v1)|null|
+|**2023-10-28**|**Fast Temporal Wavelet Graph Neural Networks**|Duc Thien Nguyen et.al.|[2302.08643v3](http://arxiv.org/abs/2302.08643v3)|**[link](https://github.com/hysonlab/twgnn)**|
+|**2023-02-07**|**Multi-Scale Message Passing Neural PDE Solvers**|Léonard Equer et.al.|[2302.03580v1](http://arxiv.org/abs/2302.03580v1)|null|
+|**2023-01-30**|**Do We Really Need Graph Neural Networks for Traffic Forecasting?**|Xu Liu et.al.|[2301.12603v1](http://arxiv.org/abs/2301.12603v1)|null|
+|**2023-01-27**|**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding**|Kunpeng Zhang et.al.|[2301.11691v1](http://arxiv.org/abs/2301.11691v1)|null|
+|**2023-01-21**|**Leveraging Spatial and Temporal Correlations for Network Traffic Compression**|Paul Almasan et.al.|[2301.08962v1](http://arxiv.org/abs/2301.08962v1)|null|
+|**2024-03-07**|**PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v3](http://arxiv.org/abs/2301.07945v3)|**[link](https://github.com/BUAABIGSCity/PDFormer)**|
+|**2023-07-19**|**Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition**|Jungho Lee et.al.|[2212.04761v2](http://arxiv.org/abs/2212.04761v2)|**[link](https://github.com/Jho-Yonsei/STC-Net)**|
+|**2024-02-19**|**STLGRU: Spatio-Temporal Lightweight Graph GRU for Traffic Flow Prediction**|Kishor Kumar Bhaumik et.al.|[2212.04548v3](http://arxiv.org/abs/2212.04548v3)|**[link](https://github.com/kishor-bhaumik/stlgru)**|
+|**2023-05-31**|**Implicit Neural Spatial Representations for Time-dependent PDEs**|Honglin Chen et.al.|[2210.00124v2](http://arxiv.org/abs/2210.00124v2)|null|
+|**2023-04-20**|**Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction**|Zijie Yue et.al.|[2207.08960v3](http://arxiv.org/abs/2207.08960v3)|**[link](https://github.com/yuezijie/stinet-space-time-video-super-resolution)**|
+|**2023-09-14**|**An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning**|Tiehua Zhang et.al.|[2206.03420v3](http://arxiv.org/abs/2206.03420v3)|null|
+|**2023-04-11**|**DPSNN: A Differentially Private Spiking Neural Network with Temporal Enhanced Pooling**|Jihang Wang et.al.|[2205.12718v3](http://arxiv.org/abs/2205.12718v3)|null|
+|**2024-03-21**|**PGCN: Progressive Graph Convolutional Networks for Spatial-Temporal Traffic Forecasting**|Yuyol Shin et.al.|[2202.08982v3](http://arxiv.org/abs/2202.08982v3)|null|
+|**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
+|**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
+
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+
