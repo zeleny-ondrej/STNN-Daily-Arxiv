@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME:
-  GITHUB_USER_EMAIL:
+  GITHUB_USER_NAME: zeleny-ondrej
+  GITHUB_USER_EMAIL: 38864594+zeleny-ondrej@users.noreply.github.com
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
