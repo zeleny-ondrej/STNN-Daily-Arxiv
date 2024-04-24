@@ -46,12 +46,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new snn-arxiv-daily.md
+      - name: Push new stnn-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update SNN Arxiv Papers"
-          files: README.md snn-arxiv-daily.json
+          commit-message: "Github Action Automatic Update STNN Arxiv Papers"
+          files: README.md stnn-arxiv-daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
