@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2024-04-02**|**Virtual Sensor for Real-Time Bearing Load Prediction Using Heterogeneous Temporal Graph Neural Networks**|Mengjie Zhao et.al.|[2404.02304v1](http://arxiv.org/abs/2404.02304v1)|null|
 |**2024-02-12**|**Temporal-Spatial Processing of Event Camera Data via Delay-Loop Reservoir Neural Network**|Richard Lau et.al.|[2403.17013v1](http://arxiv.org/abs/2403.17013v1)|null|
 |**2024-03-20**|**Spatial-Temporal Graph Representation Learning for Tactical Networks Future State Prediction**|Liu Junhua et.al.|[2403.13872v1](http://arxiv.org/abs/2403.13872v1)|**[link](https://github.com/junhua/stged)**|
-|**2024-03-31**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418v2](http://arxiv.org/abs/2403.12418v2)|null|
+|**2024-05-11**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418v3](http://arxiv.org/abs/2403.12418v3)|**[link](https://github.com/LincanLi98/STG-Mamba)**|
 |**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039v1](http://arxiv.org/abs/2403.09039v1)|null|
 |**2024-03-05**|**Gaze-Vector Estimation in the Dark with Temporally Encoded Event-driven Neural Networks**|Abeer Banerjee et.al.|[2403.02909v1](http://arxiv.org/abs/2403.02909v1)|null|
 |**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091v1](http://arxiv.org/abs/2403.01091v1)|null|
@@ -32,7 +32,7 @@
 |**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964v1](http://arxiv.org/abs/2401.15964v1)|null|
 |**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894v1](http://arxiv.org/abs/2401.15894v1)|null|
 |**2024-01-26**|**Continuously Evolving Graph Neural Controlled Differential Equations for Traffic Forecasting**|Jiajia Wu et.al.|[2401.14695v1](http://arxiv.org/abs/2401.14695v1)|null|
-|**2024-01-26**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v1](http://arxiv.org/abs/2401.14652v1)|null|
+|**2024-05-13**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v2](http://arxiv.org/abs/2401.14652v2)|null|
 |**2024-01-28**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798v3](http://arxiv.org/abs/2401.11798v3)|null|
 |**2024-01-17**|**Design and development of opto-neural processors for simulation of neural networks trained in image detection for potential implementation in hybrid robotics**|Sanjana Shetty et.al.|[2401.10289v1](http://arxiv.org/abs/2401.10289v1)|null|
 |**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134v2](http://arxiv.org/abs/2401.10134v2)|null|
@@ -116,5 +116,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
