@@ -1,4 +1,4 @@
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,7 +12,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
-|**2024-04-22**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325v1](http://arxiv.org/abs/2404.14325v1)|null|
+|**2024-05-21**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325v2](http://arxiv.org/abs/2404.14325v2)|null|
 |**2024-04-22**|**ICST-DNET: An Interpretable Causal Spatio-Temporal Diffusion Network for Traffic Speed Prediction**|Yi Rong et.al.|[2404.13853v1](http://arxiv.org/abs/2404.13853v1)|**[link](https://github.com/ry19970812/icst-dnet)**|
 |**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257v1](http://arxiv.org/abs/2404.13257v1)|null|
 |**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014v1](http://arxiv.org/abs/2404.11014v1)|null|
@@ -116,5 +116,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
