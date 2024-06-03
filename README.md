@@ -1,4 +1,4 @@
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -35,7 +35,7 @@
 |**2024-05-13**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v2](http://arxiv.org/abs/2401.14652v2)|null|
 |**2024-01-28**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798v3](http://arxiv.org/abs/2401.11798v3)|null|
 |**2024-01-17**|**Design and development of opto-neural processors for simulation of neural networks trained in image detection for potential implementation in hybrid robotics**|Sanjana Shetty et.al.|[2401.10289v1](http://arxiv.org/abs/2401.10289v1)|null|
-|**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134v2](http://arxiv.org/abs/2401.10134v2)|null|
+|**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134v2](http://arxiv.org/abs/2401.10134v2)|**[link](https://github.com/ChenxiLiu-HNU/ST-LLM)**|
 |**2024-01-15**|**Decoupled Spatial and Temporal Processing for Resource Efficient Multichannel Speech Enhancement**|Ashutosh Pandey et.al.|[2401.07879v1](http://arxiv.org/abs/2401.07879v1)|null|
 |**2024-01-13**|**Tensor Graph Convolutional Network for Dynamic Graph Representation Learning**|Ling Wang et.al.|[2401.07065v1](http://arxiv.org/abs/2401.07065v1)|null|
 |**2024-03-04**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v3](http://arxiv.org/abs/2401.06040v3)|**[link](https://github.com/qqian99/wavgcrn)**|
@@ -116,5 +116,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
