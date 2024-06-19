@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -79,7 +79,7 @@
 |**2023-07-07**|**Adaptive Graph Convolution Networks for Traffic Flow Forecasting**|Zhengdao Li et.al.|[2307.05517v1](http://arxiv.org/abs/2307.05517v1)|**[link](https://github.com/zhengdaoli/agc-net)**|
 |**2023-07-11**|**Transaction Fraud Detection via Spatial-Temporal-Aware Graph Transformer**|Yue Tian et.al.|[2307.05121v1](http://arxiv.org/abs/2307.05121v1)|null|
 |**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518v1](http://arxiv.org/abs/2307.00518v1)|**[link](https://github.com/water-wbq/dstcgcn)**|
-|**2023-07-02**|**STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction**|Xunlian Luo et.al.|[2307.00495v1](http://arxiv.org/abs/2307.00495v1)|**[link](https://github.com/trainingl/stg4traffic)**|
+|**2024-06-18**|**STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction**|Xunlian Luo et.al.|[2307.00495v2](http://arxiv.org/abs/2307.00495v2)|**[link](https://github.com/trainingl/stg4traffic)**|
 |**2023-06-15**|**Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting**|Yirong Chen et.al.|[2306.09386v1](http://arxiv.org/abs/2306.09386v1)|null|
 |**2023-06-15**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v2](http://arxiv.org/abs/2306.06930v2)|null|
 |**2023-05-30**|**Graph Neural Processes for Spatio-Temporal Extrapolation**|Junfeng Hu et.al.|[2305.18719v1](http://arxiv.org/abs/2305.18719v1)|**[link](https://github.com/hjf1997/STGNP)**|
@@ -117,5 +117,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
