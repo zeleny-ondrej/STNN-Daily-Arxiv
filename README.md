@@ -1,4 +1,4 @@
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-20**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822v1](http://arxiv.org/abs/2408.10822v1)|null|
+|**2024-08-20**|**Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting**|Jianxiang Zhou et.al.|[2408.10822v1](http://arxiv.org/abs/2408.10822v1)|**[link](https://github.com/jasonz5/STGormer)**|
 |**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-13**|**ST-RetNet: A Long-term Spatial-Temporal Traffic Flow Prediction Method**|Baichao Long et.al.|[2407.11074v1](http://arxiv.org/abs/2407.11074v1)|null|
@@ -122,5 +122,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
