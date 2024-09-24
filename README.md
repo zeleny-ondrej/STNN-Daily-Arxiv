@@ -1,4 +1,4 @@
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 |**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-13**|**ST-RetNet: A Long-term Spatial-Temporal Traffic Flow Prediction Method**|Baichao Long et.al.|[2407.11074v1](http://arxiv.org/abs/2407.11074v1)|null|
-|**2024-07-05**|**Wavelet-based Temporal Attention Improves Traffic Forecasting**|Yash Jakhmola et.al.|[2407.04440v1](http://arxiv.org/abs/2407.04440v1)|**[link](https://github.com/yash-jakhmola/w-dstagnn)**|
+|**2024-09-21**|**Spatiotemporal Forecasting of Traffic Flow using Wavelet-based Temporal Attention**|Yash Jakhmola et.al.|[2407.04440v2](http://arxiv.org/abs/2407.04440v2)|**[link](https://github.com/yash-jakhmola/w-dstagnn)**|
 |**2024-06-05**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405v2](http://arxiv.org/abs/2406.00405v2)|**[link](https://github.com/wangtianyi1874/stclif)**|
 |**2024-06-01**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v2](http://arxiv.org/abs/2405.04336v2)|null|
 |**2024-05-21**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325v2](http://arxiv.org/abs/2404.14325v2)|null|
@@ -122,5 +122,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
