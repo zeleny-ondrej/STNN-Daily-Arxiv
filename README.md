@@ -1,4 +1,4 @@
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764v1](http://arxiv.org/abs/2409.19764v1)|null|
 |**2024-09-25**|**AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting**|Tengfei Lyu et.al.|[2409.16586v1](http://arxiv.org/abs/2409.16586v1)|null|
 |**2024-09-24**|**Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting**|Wenbo Yan et.al.|[2409.15662v1](http://arxiv.org/abs/2409.15662v1)|null|
 |**2024-09-19**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627v2](http://arxiv.org/abs/2409.09627v2)|null|
@@ -132,5 +133,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241001>back to top</a>)</p>
 
