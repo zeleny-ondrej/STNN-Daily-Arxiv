@@ -1,4 +1,4 @@
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-15**|**Dense ReLU Neural Networks for Temporal-spatial Model**|Zhi Zhang et.al.|[2411.09961v1](http://arxiv.org/abs/2411.09961v1)|null|
+|**2024-11-19**|**Dense ReLU Neural Networks for Temporal-spatial Model**|Zhi Zhang et.al.|[2411.09961v2](http://arxiv.org/abs/2411.09961v2)|null|
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580v1](http://arxiv.org/abs/2410.18580v1)|null|
 |**2024-10-14**|**Graph Masked Autoencoder for Spatio-Temporal Graph Learning**|Qianru Zhang et.al.|[2410.10915v1](http://arxiv.org/abs/2410.10915v1)|null|
 |**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764v1](http://arxiv.org/abs/2409.19764v1)|null|
@@ -136,5 +136,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
 
