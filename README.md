@@ -1,4 +1,4 @@
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -50,7 +50,7 @@
 |**2024-02-26**|**Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations**|Qingqing Long et.al.|[2402.01231v2](http://arxiv.org/abs/2402.01231v2)|null|
 |**2024-01-29**|**Hybrid Transformer and Spatial-Temporal Self-Supervised Learning for Long-term Traffic Prediction**|Wang Zhu et.al.|[2401.16453v1](http://arxiv.org/abs/2401.16453v1)|null|
 |**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964v1](http://arxiv.org/abs/2401.15964v1)|null|
-|**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894v1](http://arxiv.org/abs/2401.15894v1)|null|
+|**2024-12-05**|**Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks**|Minho Lee et.al.|[2401.15894v2](http://arxiv.org/abs/2401.15894v2)|**[link](https://github.com/leemingo/cy2mixer)**|
 |**2024-01-26**|**Continuously Evolving Graph Neural Controlled Differential Equations for Traffic Forecasting**|Jiajia Wu et.al.|[2401.14695v1](http://arxiv.org/abs/2401.14695v1)|null|
 |**2024-05-13**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v2](http://arxiv.org/abs/2401.14652v2)|null|
 |**2024-01-28**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798v3](http://arxiv.org/abs/2401.11798v3)|null|
@@ -136,5 +136,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
