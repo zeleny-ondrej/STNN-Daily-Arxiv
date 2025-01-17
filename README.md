@@ -1,4 +1,4 @@
-## Updated on 2025.01.14
+## Updated on 2025.01.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**BiDepth Multimodal Neural Network: Bidirectional Depth Deep Learning Arcitecture for Spatial-Temporal Prediction**|Sina Ehsani et.al.|[2501.08411v1](http://arxiv.org/abs/2501.08411v1)|null|
 |**2024-12-24**|**Multi-View Fusion Neural Network for Traffic Demand Prediction**|Dongran Zhang et.al.|[2412.19839v1](http://arxiv.org/abs/2412.19839v1)|null|
 |**2024-12-23**|**Neural Spatial-Temporal Tensor Representation for Infrared Small Target Detection**|Fengyi Wu et.al.|[2412.17302v1](http://arxiv.org/abs/2412.17302v1)|**[link](https://github.com/fengyiwu98/neurstt)**|
 |**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247v1](http://arxiv.org/abs/2412.17247v1)|**[link](https://github.com/xwmaxwma/rschange)**|
@@ -141,5 +142,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250117>back to top</a>)</p>
 
