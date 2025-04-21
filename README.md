@@ -1,4 +1,4 @@
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -85,7 +85,7 @@
 |**2024-02-10**|**Learning optimal integration of spatial and temporal information in noisy chemotaxis**|Albert Alonso et.al.|[2310.10531v2](http://arxiv.org/abs/2310.10531v2)|**[link](https://github.com/kirkegaardlab/chemoxrl)**|
 |**2023-10-16**|**Transport-Hub-Aware Spatial-Temporal Adaptive Graph Transformer for Traffic Flow Prediction**|Xiao Xu et.al.|[2310.08328v2](http://arxiv.org/abs/2310.08328v2)|**[link](https://github.com/fantasy-shaw/h-stformer)**|
 |**2023-10-12**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow Prediction**|Haiyang Liu et.al.|[2310.08138v1](http://arxiv.org/abs/2310.08138v1)|null|
-|**2023-10-09**|**Robust Average Networks for Monte Carlo Denoising**|Javor Kalojanov et.al.|[2310.04080v2](http://arxiv.org/abs/2310.04080v2)|null|
+|**2025-04-17**|**Robust Average Networks for Monte Carlo Denoising**|Javor Kalojanov et.al.|[2310.04080v3](http://arxiv.org/abs/2310.04080v3)|null|
 |**2023-10-02**|**PASTA: PArallel Spatio-Temporal Attention with spatial auto-correlation gating for fine-grained crowd flow prediction**|Chung Park et.al.|[2310.02284v1](http://arxiv.org/abs/2310.02284v1)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
 |**2023-09-21**|**Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2309.12028v1](http://arxiv.org/abs/2309.12028v1)|null|
@@ -144,5 +144,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250421>back to top</a>)</p>
 
