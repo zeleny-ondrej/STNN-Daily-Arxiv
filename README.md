@@ -1,4 +1,4 @@
-## Updated on 2025.06.10
+## Updated on 2025.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**ST-GraphNet: A Spatio-Temporal Graph Neural Network for Understanding and Predicting Automated Vehicle Crash Severity**|Mahmuda Sultana Mimi et.al.|[2506.08051v1](http://arxiv.org/abs/2506.08051v1)|null|
 |**2025-05-17**|**The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics**|Marco Sälzer et.al.|[2505.11930v1](http://arxiv.org/abs/2505.11930v1)|null|
 |**2025-05-01**|**Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting**|Xinlong Zhao et.al.|[2505.00302v1](http://arxiv.org/abs/2505.00302v1)|null|
 |**2025-04-28**|**Temporal Neural Operator for Modeling Time-Dependent Physical Phenomena**|W. Diab et.al.|[2504.20249v1](http://arxiv.org/abs/2504.20249v1)|null|
@@ -147,5 +148,5 @@
 |**2023-06-13**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
 |**2023-08-20**|**DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**|Xingyi Cheng et.al.|[1709.09585v4](http://arxiv.org/abs/1709.09585v4)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
