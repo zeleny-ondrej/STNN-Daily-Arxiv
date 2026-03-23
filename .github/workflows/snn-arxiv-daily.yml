@@ -1,13 +1,13 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Arxiv Papers Daily
+name: Run Arxiv Papers Weekly
 
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 22 * * *"  #'*/60 * * * *'
+    - cron:  "0 22 * * 1"  # Every Monday at 22:00 UTC
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches:
